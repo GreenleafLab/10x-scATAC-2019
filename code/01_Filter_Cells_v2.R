@@ -203,7 +203,7 @@ dev.off()
 write.table(tssSingles, "results/Filter-Cells.txt")
 
 #Filter
-fragments <- fragments[mcols(fragments)[,by] %in% rownames(tssSingles)[tssSingles$cellCall==1]]
+fragments <- fragments[mcols(fragments)$RG %in% rownames(tssSingles)[tssSingles$cellCall==1]]
 fragments$RG <- paste0(name,"#",fragments$RG)
 
 #Save
