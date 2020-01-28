@@ -20,23 +20,23 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 
 # Getting 10x scATAC-seq Bam Files
 
-1. Go to NIH GEO Page : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford.
+## 1. Go to NIH GEO Page : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129785&holding=F1000&otool=stanford.
 
 ![](Step0.png)
 
-2. Click on a sample (I am showing SU001_Tumor_Immune_Post).
+## 2. Click on a sample (I am showing SU001_Tumor_Immune_Post).
 
 ![](Step1.png)
 
-3. Navigate down to the bottom and click on SRA link.
+## 3. Navigate down to the bottom and click on SRA link.
 
 ![](Step2.png)
 
-4. Navigate down and fine the run SRR.
+## 4. Navigate down and fine the run SRR.
 
 ![](Step3.png)
 
-5. Click on "Data Access" Tab and then navigate to "Original Format"
+## 5. Click on "Data Access" Tab and then navigate to "Original Format"
 
 ![](Step4.png)
 
