@@ -41,12 +41,14 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 **chromVAR Summarized Experiment** :
 <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/chromVAR_TME_All_SummarizedExperiment.final.rds
 
-**scATAC Summarized Experiment** :
+**Cicero Log2 Gene Acitvity Scores Summarized Experiment** :
 <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/Log2_Gene_Activity_TME_All_SummarizedExperiment.final.rds
 
 ## scATAC-seq BCC Tcells (Exhaustion)
 
-**Cicero Log2 Gene Acitvity Scores Summarized Experiment** :<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_TME_TCells_SummarizedExperiment.final.rds
+**scATAC Summarized Experiment** :<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_TME_TCells_SummarizedExperiment.final.rds
+
+If you want Tcell clusters get colData(se)$T_Cell_Cluster
 
 # Getting 10x scATAC-seq Bam Files
 
