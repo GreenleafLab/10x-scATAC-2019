@@ -17,3 +17,14 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 ## scATAC-seq BCC Tumor Microenvironment
 
 ## scATAC-seq BCC Tcells (Exhaustion)
+
+# Getting 10x scATAC-seq Bam Files
+
+
+
+
+
+
+
+
+
