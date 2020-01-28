@@ -1,4 +1,4 @@
-# Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. Nature Biotechnology (Satpathy*, Granja* et al. Nature Biotechnology 2019)
+# Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. Nature Biotechnology (Satpathy*, Granja* et al. 2019)
 
 ## **Link** : https://www.nature.com/articles/s41587-019-0206-z
 
