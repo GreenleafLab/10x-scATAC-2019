@@ -22,9 +22,31 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 
 ## scATAC-seq Hematopoiesis
 
+### scATAC Summarized Experiment : <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_Heme_All_SummarizedExperiment.final.rds
+
+### chromVAR Summarized Experiment :
+<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/chromVAR_Heme_All_SummarizedExperiment.final.rds
+
+### Cicero Log2 Gene Acitvity Scores Summarized Experiment :
+<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/Log2_Gene_Activity_Heme_All_SummarizedExperiment.final.rds
+
+## scATAC-seq CD34 Heme (Exhaustion)
+
+### scATAC Summarized Experiment : <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_CD34_BM_SummarizedExperiment.final.rds
+
 ## scATAC-seq BCC Tumor Microenvironment
 
+### scATAC Summarized Experiment : <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_TME_All_SummarizedExperiment.final.rds
+
+### chromVAR Summarized Experiment :
+<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/chromVAR_TME_All_SummarizedExperiment.final.rds
+
+### Cicero Log2 Gene Acitvity Scores Summarized Experiment :
+<br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/Log2_Gene_Activity_TME_All_SummarizedExperiment.final.rds
+
 ## scATAC-seq BCC Tcells (Exhaustion)
+
+### scATAC Summarized Experiment : <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_TME_TCells_SummarizedExperiment.final.rds
 
 # Getting 10x scATAC-seq Bam Files
 
