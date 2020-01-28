@@ -30,7 +30,7 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 **Cicero Log2 Gene Acitvity Scores Summarized Experiment** :
 <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/Log2_Gene_Activity_Heme_All_SummarizedExperiment.final.rds
 
-## scATAC-seq CD34 Heme (Exhaustion)
+## scATAC-seq CD34 Hematopoiesis
 
 **scATAC Summarized Experiment** : <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/scATAC_CD34_BM_SummarizedExperiment.final.rds
 
