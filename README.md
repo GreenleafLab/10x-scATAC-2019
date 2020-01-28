@@ -12,6 +12,14 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 
 # Links To Supplementary Data
 
+## Notes
+
+**.rds** file is an R binarized object to read into R use readRDS(filename)
+
+**SummarizedExperiment** is a class in R see : <br/>https://bioconductor.org/packages/release/bioc/html/SummarizedExperiment.html
+
+**deviations** (TF chromVAR) is a class in R see : <br/>https://bioconductor.org/packages/release/bioc/html/chromVAR.html
+
 ## scATAC-seq Hematopoiesis
 
 ## scATAC-seq BCC Tumor Microenvironment
