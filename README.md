@@ -4,6 +4,8 @@
 
 ## Please cite : Satpathy*, Granja* et al. , Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. Nature Biotechnology (2019) <br/>
 
+## For current up to date scATAC-seq analysis https://github.com/GreenleafLab/ArchR
+
 ![](Figure1.png)
 
 # Downsampled test data for PBMCs is available (~500 MB)
